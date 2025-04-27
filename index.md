@@ -11,3 +11,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+
+- [x] This item on the checklist is complete
+- [ ] This one is not
